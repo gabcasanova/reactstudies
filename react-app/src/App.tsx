@@ -37,7 +37,7 @@ function App() {
         </Alert>
       )}
 
-      <Button onClick={() => setAlertVisibility(true)} col or="warning">
+      <Button onClick={() => setAlertVisibility(true)} color="warning">
         Teste
       </Button>
     </div>
